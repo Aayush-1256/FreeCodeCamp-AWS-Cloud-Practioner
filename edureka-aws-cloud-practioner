@@ -1,0 +1,43 @@
+Before Cloud Computuing :
+1. Buy a stack of servers
+2. High Traffice -> More Servers
+3. Monitoring and Maintaining of Servers
+
+Disadvantages of this:
+1. Setup is very expensive
+2. Troubleshooting problems can be tedious and conflict with businees goals
+3. Since traffic is varying servers will be idle most of the time (Servers are'nt fully used)
+
+CLoud Computing Service Models
+1. Iaas
+2. Paas
+3. Saas
+
+Saas -> Software as a service
+        1. Cloud privoider leases applications / softwares which are owned by them  to client
+        
+
+Paas -> Platform as a service
+        1. Its like AWS Lambda
+        2. We have no control over underlying architecture like OS, Storage , Server etc..
+        3. THe Cloud Provider gives ability to client to deploy custom created apps using programming lang, tools etc that are provided by Clod Provider
+        
+Iaas -> Infrastructurre as a service
+        1. Provides virtualized computing resources over the internet
+        2. No worries about physical machine
+        3.  Abstract user from physical machine
+        
+
+Deployment Methods
+1. Public Cloud
+2. Private Cloud
+3. Hybrid Cloud
+
+
+
+
+
+
+
+
+
